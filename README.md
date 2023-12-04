@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amiakakingsley
+- 👋 Hi, I’m @amiakakingsley01@gmail.com
 - 👀 I’m interested in java, spring boot
 - 🌱 I’m currently learning spring cloud and data science using python
 - 💞️ I’m looking to collaborate on software development
