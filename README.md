@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @amiakakingsley01@gmail.com
-- 👀 i'm a java Spring Boot Developer
-- 📫 How to reach me on https://www.linkedin.com/in/amiaka-kingsley-
-WhatsApp: +2347046515316
-Email: kingsleyamiaka@gmail.com
-Linked: https://www.linkedin.com/in/amiaka-kingsley
-GitHub: https://github.com/amiakakingsley
+- 👀 i'm a Software Engineer
+- State of Origin: Abia State
+- 📫 contact Address
+- https://www.linkedin.com/in/amiaka-kingsley-
+- WhatsApp: +2347046515316
+- Email: kingsleyamiaka@gmail.com
+- GitHub: https://github.com/amiakakingsley
+- portfolio: https://amiakakingsley.netlify.app/
 
 Professional Summary
 Passionate and results-driven Software Engineer with over 4 years of experience in designing, developing, and implementing scalable applications. Proficient in a wide range of programming languages and frameworks. Strong problem-solving skills and a collaborative mindset to drive innovation and efficiency.
@@ -20,9 +22,9 @@ Version Control: Git, GitHub, GitLab
 Professional Experience
 Developed scalable backend services using Spring Boot  resulting in a 30% increase in application performance.Collaborated with cross-functional teams to implement new features and resolve software issues.Automated testing processes using JUnit and Selenium, reducing manual testing time by 40%.Maintained and optimized existing codebases, improving system stability and performance.Wrote and maintained APIs using Java, spring Boot and spring framework.Participated in code reviews and provided constructive feedback to peers.Improved database query performance by optimizing SQL scripts, resulting in a 20% speedup.Education
 Bachelor degree in Computer Engineering 
-Micheal Opkera University
-Graduated: November 2024
-Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Systems 
+Micheal Opkera University of Agricilture umudike, Umuahia Abia state Nigeria
+
+Relevant Coursework: Data Structures, Algorithms, Software Engineering, Database Management 
 
 Projects
 
